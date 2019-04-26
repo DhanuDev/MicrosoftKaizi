@@ -1,0 +1,4 @@
+With this file am testing 
+Git credentials login if it asking continuesly then i would add ssh authentication
+thanks
+
