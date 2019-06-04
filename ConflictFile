@@ -1,2 +1,6 @@
 This file is to know how conflict resolve
+<<<<<<< HEAD
 <this is line to be modified edited by GitBash cmd line>
+=======
+<this is line to be modified by Git hubrepo URL>
+>>>>>>> 05e33d3b231a915a8463a5030c3f6eeee3052a6e
