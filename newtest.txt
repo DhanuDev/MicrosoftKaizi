@@ -1,0 +1,5 @@
+This file is just to verify Git conflicts
+
+<li to be edited to verify git confilit modified by Git Repo from Gir URL>
+
+This is to praactice
