@@ -10,3 +10,4 @@ service jenkins status
 du -h
 
 echo "Disk usage is above"
+#This is file
